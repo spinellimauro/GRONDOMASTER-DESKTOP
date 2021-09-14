@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es" ng-app="grondomasterApp">
+
+<head>
+    <title>GrondoMaster</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- STYLES -->
+    <!-- BootsWatch's Superhero Theme-->
+    <link href="css/superhero.min.css" rel="stylesheet">
+    <!-- Bootstrap Side Navbar-->
+    <link href="css/navbar-fixed-side.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="css/master.css" rel="stylesheet">
+</head>
+
+<body>
+    <!-- Vista dinamica -->
+    <div class="container-fluid">
+        <div ui-view></div>
+    </div>
+    <!-- SCRIPTS -->
+    <!-- jQuery -->
+    <script src="js/scripts/jquery.min.js"></script>
+    <!-- Underscore -->
+    <script src="js/scripts/underscore-min.js"></script>
+    <!-- Bootstrap JS-->
+    <script src="js/scripts/bootstrap.min.js"></script>
+    <!-- AngularJS -->
+    <script src="js/scripts/angular.min.js"></script>
+    <!-- AngularUI Router -->
+    <script src="js/scripts/angular-ui-router.min.js"></script>
+    <!-- DOMAIN -->
+    <script src="js/domain/app.js "></script>
+    <script src="js/domain/directives.js "></script>
+    <script src="js/domain/routes.js "></script>
+    <script src="js/domain/domain.js "></script>
+    <script src="js/domain/services.js "></script>
+     <script src="bower_components/firebase/firebase.js"></script>
+    <script>
+      // Initialize Firebase
+      var config = {
+        apiKey: "AIzaSyDOxXaEFNdB4wgJgtOxbyePEZUOmqFd6SE",
+        authDomain: "grondomaster.firebaseapp.com",
+        databaseURL: "https://grondomaster.firebaseio.com",
+        projectId: "grondomaster",
+        storageBucket: "grondomaster.appspot.com",
+      };
+      firebase.initializeApp(config);
+    </script>
+</body>
+
+</html>

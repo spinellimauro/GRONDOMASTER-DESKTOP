@@ -1,0 +1,40 @@
+<form>
+   <div class="panel-heading" >
+        <h3 class="panel-title">OFERTAR</h3>
+    </div>
+    
+    <div>
+    <center>
+                    <img class="img-responsive" ng-src="http://cdn.sofifa.org/17/players/{{mainCtrl.jugador.id}}.png" err-src="http://cdn.sofifa.org/player.png" />
+                    <h3>{{mainCtrl.jugador.nombre}}</h3>
+    </div>
+            <div>
+                <h4 class="text-center">
+                <p>Nivel: {{mainCtrl.jugador.nivel}}</p>
+                <p>Potencial: {{mainCtrl.jugador.potencial}}</p>
+                </h4>
+            </div>
+    
+                        <input type="text" class="form-control" placeholder="Monto"
+                        ng-model="mainCtrl.monto">
+    <button type="button" class="btn btn-default"
+    ng-click="mainCtrl.realizarOferta()">
+                    Ofertar
+    </button>        
+    
+    </center>
+        
+</form>
+<hr>
+<div class="panel-body">
+        <p>Jugadores Propios</p>
+        <hr>
+        <div jugadores lista="mainCtrl.DT.plantel"></div>
+</div>
+
+<script>
+$(document).ready(function(){
+
+    $('.modal-backdrop').remove();
+});
+</script>

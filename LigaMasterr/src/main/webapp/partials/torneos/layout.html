@@ -1,0 +1,31 @@
+<div class="panel panel-default">
+    <div class="panel-body">
+        <select class="form-control" ng-model="mainCtrl.idTorneo">
+            <option value="" disabled selected>Seleccione torneo ...</option>
+            <option ng-repeat="torneo in mainCtrl.torneos" value="{{$index}}">{{torneo.nombreTorneo}}</option>
+        </select>
+    </div>
+</div>
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <ul class="nav nav-tabs panel-title">
+            <li class="active">
+                <a data-toggle="tab" data-target="#tab" ui-sref="main.torneos.partidos">Partidos</a>
+            </li>
+            <li>
+                <a data-toggle="tab" data-target="#tab" ui-sref="main.torneos.posiciones">Posiciones</a>
+            </li>
+            <li>
+                <a data-toggle="tab" data-target="#tab" ui-sref="main.torneos.goleadores">Goleadores</a>
+            </li>
+            <li>
+                <a data-toggle="tab" data-target="#tab" ui-sref="main.torneos.fairPlay">Fair Play</a>
+            </li>
+        </ul>
+    </div>
+    <div class="tab-content panel-body">
+        <div id="tab" class="tab-pane in active">
+            <div ui-view="container"></div>
+        </div>
+    </div>
+</div>

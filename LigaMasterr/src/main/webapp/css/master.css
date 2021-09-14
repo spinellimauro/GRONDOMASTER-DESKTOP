@@ -1,0 +1,26 @@
+.navbar {
+    font-size: 18px;
+}
+
+.nav > p {
+    font-size: 16px;
+}
+
+.navbar-fixed-side .navbar-nav > li > a {
+    border-bottom: transparent;
+}
+
+th {
+	text-align: center;
+    font-size: 16px;
+}
+
+td {
+	text-align: center;
+    font-size: 14px;
+}
+
+.vertical-center {
+    margin-top: 50%;
+    margin-bottom: 50%;
+}

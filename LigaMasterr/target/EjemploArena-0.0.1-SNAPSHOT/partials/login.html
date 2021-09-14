@@ -1,0 +1,28 @@
+<div class="row">
+    <div class="col-sm-4 col-sm-offset-4">
+        <div class="panel panel-primary vertical-center">
+            <div class="panel-body">
+                <form class="form-horizontal">
+                    <div class="input-group col-xs-12">
+                        <input type="text" class="form-control" placeholder="Usuario"
+                        ng-model="loginCtrl.nombre">
+                    </div>
+                    <br>
+                    <div class="input-group col-xs-12">
+                        <input type="password" class="form-control
+                        " ng-model="loginCtrl.password" placeholder="Contraseña">
+                    </div>
+                    <br>
+                    <div class="input-group col-xs-4 col-xs-offset-4">
+                        <button type="submit" class="btn btn-primary btn-block" ng-click="loginCtrl.iniciarSesion()">Entrar</button>
+                        <button type="submit" class="btn btn-primary btn-block" ng-click="loginCtrl.guardarSesion()">Guardar</button>
+                        <button type="submit" class="btn btn-primary btn-block" ng-click="loginCtrl.cargarSesion()">Cargar</button>
+                    </div>
+                    <div>
+                            <label ng-show = "loginCtrl.mensaje"> {{loginCtrl.mensaje}}</label>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

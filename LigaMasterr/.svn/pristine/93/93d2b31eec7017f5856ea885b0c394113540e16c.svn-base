@@ -1,0 +1,24 @@
+<div class="panel panel-default ">
+    <div class="panel-heading">
+        <div class="panel-title">
+            <ul class="nav nav-tabs">
+                <li class="active">
+                    <a data-toggle="tab" data-target="#tab" ui-sref="main.mercado.transferibles">Transferibles</a>
+                </li>
+                <li>
+                    <a data-toggle="tab" data-target="#tab" ui-sref="main.mercado.buscador">Buscador</a>
+                </li>
+                <li>
+                    <a data-toggle="tab" data-target="#tab" ui-sref="main.mercado.traspasos">Traspasos</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="panel-body">
+        <div class="tab-content">
+            <div id="tab" class="tab-pane in active">
+                <div ui-view="container"></div>
+            </div>
+        </div>
+    </div>
+</div>
