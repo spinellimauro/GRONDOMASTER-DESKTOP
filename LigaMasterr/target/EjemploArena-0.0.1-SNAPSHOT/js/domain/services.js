@@ -43,14 +43,6 @@ app.service("DTService", function($http) {
     this.getTraspasos = function(callback) {
         $http.get('/transferencias').then(callback);
     };
-    
-    this.cargar = function(callback) {
-        $http.get('/cargar')
-    };
-    
-     this.guardar = function(callback) {
-        $http.get('/guardar')
-    };
 
 
 // PUTS

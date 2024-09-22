@@ -16,7 +16,7 @@ public class TransferWindow extends Dialog<TransferModel> {
     super(parent, new TransferModel(model));
     this.setTitle("Transferencias");
   }
-  
+
   @Override
   public void createMainTemplate(final Panel panel) {
     Table<Transferencia> _table = new Table<Transferencia>(panel, Transferencia.class);
@@ -61,11 +61,11 @@ public class TransferWindow extends Dialog<TransferModel> {
     };
     ObjectExtensions.<Table<Transferencia>>operator_doubleArrow(_table, _function);
   }
-  
+
   @Override
   protected void addActions(final Panel actionsPanel) {
   }
-  
+
   @Override
   protected void createFormPanel(final Panel mainPanel) {
   }

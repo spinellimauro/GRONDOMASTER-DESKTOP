@@ -17,9 +17,9 @@ import org.uqbar.commons.utils.Observable;
 @SuppressWarnings("all")
 public class RankModel {
   private DT dtON;
-  
+
   private List<DT> dts = CollectionLiterals.<DT>newArrayList();
-  
+
   public RankModel(final DT model) {
     this.dtON = model;
     final Function1<DT, Double> _function = (DT it) -> {
@@ -27,28 +27,28 @@ public class RankModel {
     };
     this.dts = ListExtensions.<DT>reverse(IterableExtensions.<DT, Double>sortBy(LigaMaster.getInstance().getListaDT(), _function));
   }
-  
+
   public void iniciarRank() {
     final Consumer<DT> _function = (DT it) -> {
       it.setRank(1.0);
     };
     this.dts.forEach(_function);
   }
-  
+
   @Pure
   public DT getDtON() {
     return this.dtON;
   }
-  
+
   public void setDtON(final DT dtON) {
     this.dtON = dtON;
   }
-  
+
   @Pure
   public List<DT> getDts() {
     return this.dts;
   }
-  
+
   public void setDts(final List<DT> dts) {
     this.dts = dts;
   }

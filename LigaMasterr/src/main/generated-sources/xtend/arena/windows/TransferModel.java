@@ -15,28 +15,28 @@ import org.uqbar.commons.utils.Observable;
 @SuppressWarnings("all")
 public class TransferModel {
   private DT dtON;
-  
+
   private List<Transferencia> transferencias = CollectionLiterals.<Transferencia>newArrayList();
-  
+
   public TransferModel(final DT model) {
     this.dtON = model;
     this.transferencias = ListExtensions.<Transferencia>reverse(LigaMaster.getInstance().getMercado().getListaTraspasos());
   }
-  
+
   @Pure
   public DT getDtON() {
     return this.dtON;
   }
-  
+
   public void setDtON(final DT dtON) {
     this.dtON = dtON;
   }
-  
+
   @Pure
   public List<Transferencia> getTransferencias() {
     return this.transferencias;
   }
-  
+
   public void setTransferencias(final List<Transferencia> transferencias) {
     this.transferencias = transferencias;
   }

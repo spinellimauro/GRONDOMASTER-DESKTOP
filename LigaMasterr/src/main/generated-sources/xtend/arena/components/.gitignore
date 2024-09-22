@@ -1,12 +1,8 @@
 /.AbstractLabeledWidget.java._trace
-/.AbstractLabeledWidget.xtendbin
-/.LabeledTextBox.java._trace
-/.LabeledTextBox.xtendbin
-/AbstractLabeledWidget.java
-/LabeledTextBox.java
 /.LabeledNumericField.java._trace
-/.LabeledNumericField.xtendbin
 /.LabeledSelector.java._trace
-/.LabeledSelector.xtendbin
+/.LabeledTextBox.java._trace
+/AbstractLabeledWidget.java
 /LabeledNumericField.java
 /LabeledSelector.java
+/LabeledTextBox.java

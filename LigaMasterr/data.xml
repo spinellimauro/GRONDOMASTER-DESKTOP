@@ -78,8 +78,8 @@
                     <string>LD</string>
                     <string>MD</string>
                   </posiciones>
-                  <nivel>84</nivel>
-                  <potencial>86</potencial>
+                  <nivel>78</nivel>
+                  <potencial>78</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -92,8 +92,8 @@
                   <posiciones>
                     <string>DFC</string>
                   </posiciones>
-                  <nivel>75</nivel>
-                  <potencial>81</potencial>
+                  <nivel>70</nivel>
+                  <potencial>74</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -106,8 +106,8 @@
                   <posiciones>
                     <string>MC</string>
                   </posiciones>
-                  <nivel>72</nivel>
-                  <potencial>84</potencial>
+                  <nivel>70</nivel>
+                  <potencial>75</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -120,8 +120,8 @@
                   <posiciones>
                     <string>DFC</string>
                   </posiciones>
-                  <nivel>85</nivel>
-                  <potencial>86</potencial>
+                  <nivel>76</nivel>
+                  <potencial>76</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -137,8 +137,8 @@
                     <string>MI</string>
                     <string>MD</string>
                   </posiciones>
-                  <nivel>79</nivel>
-                  <potencial>86</potencial>
+                  <nivel>80</nivel>
+                  <potencial>80</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -153,7 +153,7 @@
                     <string>MD</string>
                   </posiciones>
                   <nivel>75</nivel>
-                  <potencial>82</potencial>
+                  <potencial>75</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -169,7 +169,7 @@
                     <string>EI</string>
                   </posiciones>
                   <nivel>82</nivel>
-                  <potencial>86</potencial>
+                  <potencial>82</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -182,8 +182,8 @@
                   <posiciones>
                     <string>DC</string>
                   </posiciones>
-                  <nivel>79</nivel>
-                  <potencial>85</potencial>
+                  <nivel>74</nivel>
+                  <potencial>74</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -199,8 +199,8 @@
                     <string>EI</string>
                     <string>SD</string>
                   </posiciones>
-                  <nivel>72</nivel>
-                  <potencial>80</potencial>
+                  <nivel>73</nivel>
+                  <potencial>73</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -214,8 +214,8 @@
                     <string>DC</string>
                     <string>MCO</string>
                   </posiciones>
-                  <nivel>77</nivel>
-                  <potencial>84</potencial>
+                  <nivel>76</nivel>
+                  <potencial>78</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -232,7 +232,7 @@
                     <string>MCD</string>
                   </posiciones>
                   <nivel>86</nivel>
-                  <potencial>88</potencial>
+                  <potencial>86</potencial>
                   <lesion>0</lesion>
                   <habilitado>false</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -247,8 +247,8 @@
                     <string>MD</string>
                     <string>DC</string>
                   </posiciones>
-                  <nivel>79</nivel>
-                  <potencial>83</potencial>
+                  <nivel>78</nivel>
+                  <potencial>78</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -261,8 +261,8 @@
                   <posiciones>
                     <string>DFC</string>
                   </posiciones>
-                  <nivel>77</nivel>
-                  <potencial>86</potencial>
+                  <nivel>85</nivel>
+                  <potencial>89</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -276,8 +276,8 @@
                     <string>MC</string>
                     <string>MCD</string>
                   </posiciones>
-                  <nivel>80</nivel>
-                  <potencial>86</potencial>
+                  <nivel>79</nivel>
+                  <potencial>82</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -292,8 +292,8 @@
                     <string>ED</string>
                     <string>EI</string>
                   </posiciones>
-                  <nivel>89</nivel>
-                  <potencial>89</potencial>
+                  <nivel>88</nivel>
+                  <potencial>88</potencial>
                   <lesion>0</lesion>
                   <habilitado>false</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -308,8 +308,8 @@
                     <string>MCO</string>
                     <string>MC</string>
                   </posiciones>
-                  <nivel>68</nivel>
-                  <potencial>85</potencial>
+                  <nivel>74</nivel>
+                  <potencial>81</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -323,8 +323,8 @@
                     <string>MCO</string>
                     <string>DC</string>
                   </posiciones>
-                  <nivel>85</nivel>
-                  <potencial>87</potencial>
+                  <nivel>82</nivel>
+                  <potencial>82</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -338,8 +338,8 @@
                     <string>RM</string>
                     <string>LM</string>
                   </posiciones>
-                  <nivel>79</nivel>
-                  <potencial>86</potencial>
+                  <nivel>83</nivel>
+                  <potencial>84</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -352,8 +352,8 @@
                   <posiciones>
                     <string>DFC</string>
                   </posiciones>
-                  <nivel>76</nivel>
-                  <potencial>81</potencial>
+                  <nivel>75</nivel>
+                  <potencial>78</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -367,8 +367,8 @@
                     <string>CM</string>
                     <string>CDM</string>
                   </posiciones>
-                  <nivel>77</nivel>
-                  <potencial>87</potencial>
+                  <nivel>80</nivel>
+                  <potencial>84</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -382,8 +382,8 @@
                     <string>MC</string>
                     <string>MCD</string>
                   </posiciones>
-                  <nivel>82</nivel>
-                  <potencial>87</potencial>
+                  <nivel>83</nivel>
+                  <potencial>83</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -397,8 +397,8 @@
                     <string>MC</string>
                     <string>MCD</string>
                   </posiciones>
-                  <nivel>78</nivel>
-                  <potencial>83</potencial>
+                  <nivel>71</nivel>
+                  <potencial>71</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -412,8 +412,8 @@
                     <string>MCD</string>
                     <string>MC</string>
                   </posiciones>
-                  <nivel>75</nivel>
-                  <potencial>81</potencial>
+                  <nivel>69</nivel>
+                  <potencial>72</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -426,8 +426,8 @@
                   <posiciones>
                     <string>POR</string>
                   </posiciones>
-                  <nivel>81</nivel>
-                  <potencial>85</potencial>
+                  <nivel>79</nivel>
+                  <potencial>79</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -443,8 +443,8 @@
                     <string>DC</string>
                     <string>MD</string>
                   </posiciones>
-                  <nivel>83</nivel>
-                  <potencial>88</potencial>
+                  <nivel>77</nivel>
+                  <potencial>78</potencial>
                   <lesion>0</lesion>
                   <habilitado>false</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -459,7 +459,7 @@
                     <string>SD</string>
                   </posiciones>
                   <nivel>76</nivel>
-                  <potencial>84</potencial>
+                  <potencial>79</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -472,8 +472,8 @@
                   <posiciones>
                     <string>MCO</string>
                   </posiciones>
-                  <nivel>81</nivel>
-                  <potencial>87</potencial>
+                  <nivel>85</nivel>
+                  <potencial>85</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -487,8 +487,8 @@
                     <string>EI</string>
                     <string>ED</string>
                   </posiciones>
-                  <nivel>84</nivel>
-                  <potencial>92</potencial>
+                  <nivel>82</nivel>
+                  <potencial>86</potencial>
                   <lesion>0</lesion>
                   <habilitado>false</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -502,8 +502,8 @@
                     <string>DFC</string>
                     <string>LI</string>
                   </posiciones>
-                  <nivel>86</nivel>
-                  <potencial>90</potencial>
+                  <nivel>76</nivel>
+                  <potencial>76</potencial>
                   <lesion>0</lesion>
                   <habilitado>false</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -517,8 +517,8 @@
                     <string>MCO</string>
                     <string>MC</string>
                   </posiciones>
-                  <nivel>91</nivel>
-                  <potencial>91</potencial>
+                  <nivel>90</nivel>
+                  <potencial>90</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -532,7 +532,7 @@
                     <string>POR</string>
                   </posiciones>
                   <nivel>89</nivel>
-                  <potencial>91</potencial>
+                  <potencial>89</potencial>
                   <lesion>0</lesion>
                   <habilitado>false</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -545,8 +545,8 @@
                   <posiciones>
                     <string>LD</string>
                   </posiciones>
-                  <nivel>79</nivel>
-                  <potencial>80</potencial>
+                  <nivel>77</nivel>
+                  <potencial>77</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -559,8 +559,8 @@
                   <posiciones>
                     <string>DFC</string>
                   </posiciones>
-                  <nivel>81</nivel>
-                  <potencial>87</potencial>
+                  <nivel>78</nivel>
+                  <potencial>78</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -575,7 +575,7 @@
                     <string>MI</string>
                   </posiciones>
                   <nivel>84</nivel>
-                  <potencial>88</potencial>
+                  <potencial>84</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -588,8 +588,8 @@
                   <posiciones>
                     <string>LD</string>
                   </posiciones>
-                  <nivel>71</nivel>
-                  <potencial>82</potencial>
+                  <nivel>70</nivel>
+                  <potencial>78</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -604,8 +604,8 @@
                     <string>EI</string>
                     <string>MD</string>
                   </posiciones>
-                  <nivel>76</nivel>
-                  <potencial>85</potencial>
+                  <nivel>75</nivel>
+                  <potencial>76</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -618,8 +618,8 @@
                   <posiciones>
                     <string>DFC</string>
                   </posiciones>
-                  <nivel>79</nivel>
-                  <potencial>88</potencial>
+                  <nivel>83</nivel>
+                  <potencial>85</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -634,8 +634,8 @@
                     <string>ED</string>
                     <string>MD</string>
                   </posiciones>
-                  <nivel>80</nivel>
-                  <potencial>83</potencial>
+                  <nivel>79</nivel>
+                  <potencial>79</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -648,8 +648,8 @@
                   <posiciones>
                     <string>LI</string>
                   </posiciones>
-                  <nivel>83</nivel>
-                  <potencial>87</potencial>
+                  <nivel>86</nivel>
+                  <potencial>86</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -662,8 +662,8 @@
                   <posiciones>
                     <string>DFC</string>
                   </posiciones>
-                  <nivel>70</nivel>
-                  <potencial>78</potencial>
+                  <nivel>76</nivel>
+                  <potencial>79</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -676,8 +676,8 @@
                   <posiciones>
                     <string>DFC</string>
                   </posiciones>
-                  <nivel>78</nivel>
-                  <potencial>88</potencial>
+                  <nivel>82</nivel>
+                  <potencial>85</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -691,7 +691,7 @@
                     <string>MD</string>
                     <string>ED</string>
                   </posiciones>
-                  <nivel>76</nivel>
+                  <nivel>80</nivel>
                   <potencial>85</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
@@ -706,8 +706,8 @@
                     <string>DFC</string>
                     <string>MCD</string>
                   </posiciones>
-                  <nivel>76</nivel>
-                  <potencial>85</potencial>
+                  <nivel>82</nivel>
+                  <potencial>84</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -720,8 +720,8 @@
                   <posiciones>
                     <string>DC</string>
                   </posiciones>
-                  <nivel>85</nivel>
-                  <potencial>86</potencial>
+                  <nivel>82</nivel>
+                  <potencial>82</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -735,8 +735,8 @@
                     <string>DFC</string>
                     <string>LI</string>
                   </posiciones>
-                  <nivel>75</nivel>
-                  <potencial>83</potencial>
+                  <nivel>71</nivel>
+                  <potencial>74</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -751,8 +751,8 @@
                     <string>ED</string>
                     <string>DC</string>
                   </posiciones>
-                  <nivel>83</nivel>
-                  <potencial>88</potencial>
+                  <nivel>78</nivel>
+                  <potencial>78</potencial>
                   <lesion>0</lesion>
                   <habilitado>false</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -766,8 +766,8 @@
                     <string>MI</string>
                     <string>MCO</string>
                   </posiciones>
-                  <nivel>72</nivel>
-                  <potencial>86</potencial>
+                  <nivel>74</nivel>
+                  <potencial>76</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -781,7 +781,7 @@
                     <string>MCO</string>
                     <string>MC</string>
                   </posiciones>
-                  <nivel>77</nivel>
+                  <nivel>88</nivel>
                   <potencial>90</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
@@ -1530,8 +1530,8 @@
                     <string>ED</string>
                     <string>EI</string>
                   </posiciones>
-                  <nivel>80</nivel>
-                  <potencial>80</potencial>
+                  <nivel>77</nivel>
+                  <potencial>77</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1544,8 +1544,8 @@
                   <posiciones>
                     <string>POR</string>
                   </posiciones>
-                  <nivel>90</nivel>
-                  <potencial>92</potencial>
+                  <nivel>89</nivel>
+                  <potencial>89</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1561,7 +1561,7 @@
                     <string>MC</string>
                   </posiciones>
                   <nivel>78</nivel>
-                  <potencial>79</potencial>
+                  <potencial>78</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1574,8 +1574,8 @@
                   <posiciones>
                     <string>DFC</string>
                   </posiciones>
-                  <nivel>88</nivel>
-                  <potencial>88</potencial>
+                  <nivel>84</nivel>
+                  <potencial>84</potencial>
                   <lesion>0</lesion>
                   <habilitado>false</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1588,8 +1588,8 @@
                   <posiciones>
                     <string>DC</string>
                   </posiciones>
-                  <nivel>76</nivel>
-                  <potencial>76</potencial>
+                  <nivel>73</nivel>
+                  <potencial>73</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1619,8 +1619,8 @@
                     <string>LD</string>
                     <string>CAR</string>
                   </posiciones>
-                  <nivel>75</nivel>
-                  <potencial>80</potencial>
+                  <nivel>76</nivel>
+                  <potencial>76</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1634,8 +1634,8 @@
                     <string>ED</string>
                     <string>DC</string>
                   </posiciones>
-                  <nivel>77</nivel>
-                  <potencial>80</potencial>
+                  <nivel>76</nivel>
+                  <potencial>76</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1650,8 +1650,8 @@
                     <string>MI</string>
                     <string>DC</string>
                   </posiciones>
-                  <nivel>77</nivel>
-                  <potencial>85</potencial>
+                  <nivel>75</nivel>
+                  <potencial>78</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1665,8 +1665,8 @@
                     <string>MC</string>
                     <string>MCO</string>
                   </posiciones>
-                  <nivel>77</nivel>
-                  <potencial>80</potencial>
+                  <nivel>76</nivel>
+                  <potencial>76</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1680,8 +1680,8 @@
                     <string>MD</string>
                     <string>ED</string>
                   </posiciones>
-                  <nivel>75</nivel>
-                  <potencial>80</potencial>
+                  <nivel>70</nivel>
+                  <potencial>71</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1697,7 +1697,7 @@
                     <string>MC</string>
                   </posiciones>
                   <nivel>78</nivel>
-                  <potencial>79</potencial>
+                  <potencial>78</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1711,7 +1711,7 @@
                     <string>DFC</string>
                   </posiciones>
                   <nivel>82</nivel>
-                  <potencial>87</potencial>
+                  <potencial>83</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1724,8 +1724,8 @@
                   <posiciones>
                     <string>LD</string>
                   </posiciones>
-                  <nivel>76</nivel>
-                  <potencial>77</potencial>
+                  <nivel>78</nivel>
+                  <potencial>78</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1738,8 +1738,8 @@
                   <posiciones>
                     <string>MD</string>
                   </posiciones>
-                  <nivel>77</nivel>
-                  <potencial>85</potencial>
+                  <nivel>80</nivel>
+                  <potencial>83</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1768,8 +1768,8 @@
                     <string>MCO</string>
                     <string>MCD</string>
                   </posiciones>
-                  <nivel>84</nivel>
-                  <potencial>84</potencial>
+                  <nivel>82</nivel>
+                  <potencial>82</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1784,7 +1784,7 @@
                     <string>CAR</string>
                   </posiciones>
                   <nivel>77</nivel>
-                  <potencial>83</potencial>
+                  <potencial>79</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1797,8 +1797,8 @@
                   <posiciones>
                     <string>DC</string>
                   </posiciones>
-                  <nivel>81</nivel>
-                  <potencial>85</potencial>
+                  <nivel>77</nivel>
+                  <potencial>78</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1812,7 +1812,7 @@
                     <string>LI</string>
                   </posiciones>
                   <nivel>82</nivel>
-                  <potencial>85</potencial>
+                  <potencial>82</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1826,8 +1826,8 @@
                     <string>MCO</string>
                     <string>MC</string>
                   </posiciones>
-                  <nivel>79</nivel>
-                  <potencial>80</potencial>
+                  <nivel>78</nivel>
+                  <potencial>78</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1841,8 +1841,8 @@
                     <string>EI</string>
                     <string>DC</string>
                   </posiciones>
-                  <nivel>77</nivel>
-                  <potencial>80</potencial>
+                  <nivel>72</nivel>
+                  <potencial>72</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1856,8 +1856,8 @@
                     <string>LD</string>
                     <string>DFC</string>
                   </posiciones>
-                  <nivel>78</nivel>
-                  <potencial>85</potencial>
+                  <nivel>76</nivel>
+                  <potencial>77</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1870,8 +1870,8 @@
                   <posiciones>
                     <string>ED</string>
                   </posiciones>
-                  <nivel>90</nivel>
-                  <potencial>90</potencial>
+                  <nivel>89</nivel>
+                  <potencial>89</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1885,7 +1885,7 @@
                     <string>DFC</string>
                   </posiciones>
                   <nivel>75</nivel>
-                  <potencial>76</potencial>
+                  <potencial>75</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1899,8 +1899,8 @@
                     <string>ED</string>
                     <string>MD</string>
                   </posiciones>
-                  <nivel>79</nivel>
-                  <potencial>79</potencial>
+                  <nivel>77</nivel>
+                  <potencial>77</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1915,8 +1915,8 @@
                     <string>MCD</string>
                     <string>MCO</string>
                   </posiciones>
-                  <nivel>76</nivel>
-                  <potencial>82</potencial>
+                  <nivel>77</nivel>
+                  <potencial>78</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1931,8 +1931,8 @@
                     <string>MD</string>
                     <string>ED</string>
                   </posiciones>
-                  <nivel>80</nivel>
-                  <potencial>80</potencial>
+                  <nivel>78</nivel>
+                  <potencial>78</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1947,8 +1947,8 @@
                     <string>LD</string>
                     <string>MD</string>
                   </posiciones>
-                  <nivel>79</nivel>
-                  <potencial>87</potencial>
+                  <nivel>83</nivel>
+                  <potencial>86</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1962,8 +1962,8 @@
                     <string>MC</string>
                     <string>MCD</string>
                   </posiciones>
-                  <nivel>73</nivel>
-                  <potencial>82</potencial>
+                  <nivel>76</nivel>
+                  <potencial>79</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1976,8 +1976,8 @@
                   <posiciones>
                     <string>POR</string>
                   </posiciones>
-                  <nivel>78</nivel>
-                  <potencial>83</potencial>
+                  <nivel>79</nivel>
+                  <potencial>80</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -1990,8 +1990,8 @@
                   <posiciones>
                     <string>DFC</string>
                   </posiciones>
-                  <nivel>76</nivel>
-                  <potencial>82</potencial>
+                  <nivel>68</nivel>
+                  <potencial>69</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3350,8 +3350,8 @@
                   <posiciones>
                     <string>DFC</string>
                   </posiciones>
-                  <nivel>79</nivel>
-                  <potencial>81</potencial>
+                  <nivel>77</nivel>
+                  <potencial>77</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3365,7 +3365,7 @@
                     <string>POR</string>
                   </posiciones>
                   <nivel>83</nivel>
-                  <potencial>86</potencial>
+                  <potencial>84</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3379,8 +3379,8 @@
                     <string>ED</string>
                     <string>MI</string>
                   </posiciones>
-                  <nivel>75</nivel>
-                  <potencial>84</potencial>
+                  <nivel>73</nivel>
+                  <potencial>73</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3393,8 +3393,8 @@
                   <posiciones>
                     <string>MC</string>
                   </posiciones>
-                  <nivel>78</nivel>
-                  <potencial>83</potencial>
+                  <nivel>79</nivel>
+                  <potencial>79</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3408,8 +3408,8 @@
                     <string>MI</string>
                     <string>MD</string>
                   </posiciones>
-                  <nivel>82</nivel>
-                  <potencial>82</potencial>
+                  <nivel>83</nivel>
+                  <potencial>83</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3423,8 +3423,8 @@
                     <string>MC</string>
                     <string>MCO</string>
                   </posiciones>
-                  <nivel>84</nivel>
-                  <potencial>84</potencial>
+                  <nivel>72</nivel>
+                  <potencial>72</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3439,8 +3439,8 @@
                     <string>MC</string>
                     <string>MI</string>
                   </posiciones>
-                  <nivel>78</nivel>
-                  <potencial>87</potencial>
+                  <nivel>76</nivel>
+                  <potencial>84</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3453,8 +3453,8 @@
                   <posiciones>
                     <string>DC</string>
                   </posiciones>
-                  <nivel>86</nivel>
-                  <potencial>86</potencial>
+                  <nivel>82</nivel>
+                  <potencial>82</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3469,8 +3469,8 @@
                     <string>MI</string>
                     <string>ED</string>
                   </posiciones>
-                  <nivel>78</nivel>
-                  <potencial>79</potencial>
+                  <nivel>72</nivel>
+                  <potencial>72</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3483,8 +3483,8 @@
                   <posiciones>
                     <string>POR</string>
                   </posiciones>
-                  <nivel>76</nivel>
-                  <potencial>83</potencial>
+                  <nivel>74</nivel>
+                  <potencial>76</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3498,8 +3498,8 @@
                     <string>LD</string>
                     <string>LI</string>
                   </posiciones>
-                  <nivel>75</nivel>
-                  <potencial>83</potencial>
+                  <nivel>81</nivel>
+                  <potencial>82</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3512,8 +3512,8 @@
                   <posiciones>
                     <string>DFC</string>
                   </posiciones>
-                  <nivel>78</nivel>
-                  <potencial>81</potencial>
+                  <nivel>69</nivel>
+                  <potencial>69</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3526,8 +3526,8 @@
                   <posiciones>
                     <string>LD</string>
                   </posiciones>
-                  <nivel>74</nivel>
-                  <potencial>79</potencial>
+                  <nivel>69</nivel>
+                  <potencial>71</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3541,8 +3541,8 @@
                     <string>MC</string>
                     <string>MCO</string>
                   </posiciones>
-                  <nivel>71</nivel>
-                  <potencial>87</potencial>
+                  <nivel>69</nivel>
+                  <potencial>72</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3556,8 +3556,8 @@
                     <string>MCD</string>
                     <string>MC</string>
                   </posiciones>
-                  <nivel>82</nivel>
-                  <potencial>87</potencial>
+                  <nivel>84</nivel>
+                  <potencial>86</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3570,8 +3570,8 @@
                   <posiciones>
                     <string>DFC</string>
                   </posiciones>
-                  <nivel>75</nivel>
-                  <potencial>84</potencial>
+                  <nivel>77</nivel>
+                  <potencial>79</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3585,8 +3585,8 @@
                     <string>EI</string>
                     <string>DC</string>
                   </posiciones>
-                  <nivel>78</nivel>
-                  <potencial>82</potencial>
+                  <nivel>70</nivel>
+                  <potencial>70</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3599,8 +3599,8 @@
                   <posiciones>
                     <string>DFC</string>
                   </posiciones>
-                  <nivel>76</nivel>
-                  <potencial>77</potencial>
+                  <nivel>72</nivel>
+                  <potencial>72</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3613,8 +3613,8 @@
                   <posiciones>
                     <string>DC</string>
                   </posiciones>
-                  <nivel>79</nivel>
-                  <potencial>79</potencial>
+                  <nivel>76</nivel>
+                  <potencial>76</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3627,8 +3627,8 @@
                   <posiciones>
                     <string>LD</string>
                   </posiciones>
-                  <nivel>79</nivel>
-                  <potencial>83</potencial>
+                  <nivel>74</nivel>
+                  <potencial>74</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3643,7 +3643,7 @@
                     <string>LI</string>
                   </posiciones>
                   <nivel>78</nivel>
-                  <potencial>82</potencial>
+                  <potencial>78</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3657,7 +3657,7 @@
                     <string>DFC</string>
                   </posiciones>
                   <nivel>78</nivel>
-                  <potencial>85</potencial>
+                  <potencial>79</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3670,8 +3670,8 @@
                   <posiciones>
                     <string>DC</string>
                   </posiciones>
-                  <nivel>82</nivel>
-                  <potencial>90</potencial>
+                  <nivel>89</nivel>
+                  <potencial>89</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3685,8 +3685,8 @@
                     <string>DFC</string>
                     <string>LD</string>
                   </posiciones>
-                  <nivel>75</nivel>
-                  <potencial>82</potencial>
+                  <nivel>74</nivel>
+                  <potencial>75</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3699,8 +3699,8 @@
                   <posiciones>
                     <string>DC</string>
                   </posiciones>
-                  <nivel>79</nivel>
-                  <potencial>80</potencial>
+                  <nivel>74</nivel>
+                  <potencial>74</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3715,8 +3715,8 @@
                     <string>LI</string>
                     <string>MI</string>
                   </posiciones>
-                  <nivel>78</nivel>
-                  <potencial>81</potencial>
+                  <nivel>79</nivel>
+                  <potencial>79</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3730,8 +3730,8 @@
                     <string>EI</string>
                     <string>ED</string>
                   </posiciones>
-                  <nivel>75</nivel>
-                  <potencial>85</potencial>
+                  <nivel>77</nivel>
+                  <potencial>80</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3745,8 +3745,8 @@
                     <string>MCD</string>
                     <string>MC</string>
                   </posiciones>
-                  <nivel>77</nivel>
-                  <potencial>78</potencial>
+                  <nivel>75</nivel>
+                  <potencial>75</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3761,8 +3761,8 @@
                     <string>MD</string>
                     <string>MC</string>
                   </posiciones>
-                  <nivel>87</nivel>
-                  <potencial>88</potencial>
+                  <nivel>78</nivel>
+                  <potencial>78</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3791,8 +3791,8 @@
                   <posiciones>
                     <string>DC</string>
                   </posiciones>
-                  <nivel>75</nivel>
-                  <potencial>84</potencial>
+                  <nivel>85</nivel>
+                  <potencial>87</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3805,8 +3805,8 @@
                   <posiciones>
                     <string>MC</string>
                   </posiciones>
-                  <nivel>71</nivel>
-                  <potencial>87</potencial>
+                  <nivel>78</nivel>
+                  <potencial>83</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3820,8 +3820,8 @@
                     <string>LI</string>
                     <string>CAR</string>
                   </posiciones>
-                  <nivel>77</nivel>
-                  <potencial>84</potencial>
+                  <nivel>72</nivel>
+                  <potencial>73</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3835,7 +3835,7 @@
                     <string>POR</string>
                   </posiciones>
                   <nivel>80</nivel>
-                  <potencial>86</potencial>
+                  <potencial>82</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3850,8 +3850,8 @@
                     <string>DFC</string>
                     <string>MC</string>
                   </posiciones>
-                  <nivel>78</nivel>
-                  <potencial>87</potencial>
+                  <nivel>87</nivel>
+                  <potencial>88</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3865,8 +3865,8 @@
                     <string>DFC</string>
                     <string>LI</string>
                   </posiciones>
-                  <nivel>73</nivel>
-                  <potencial>83</potencial>
+                  <nivel>70</nivel>
+                  <potencial>73</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3880,8 +3880,8 @@
                     <string>MC</string>
                     <string>MCD</string>
                   </posiciones>
-                  <nivel>79</nivel>
-                  <potencial>83</potencial>
+                  <nivel>78</nivel>
+                  <potencial>78</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3894,8 +3894,8 @@
                   <posiciones>
                     <string>POR</string>
                   </posiciones>
-                  <nivel>73</nivel>
-                  <potencial>80</potencial>
+                  <nivel>75</nivel>
+                  <potencial>78</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3909,8 +3909,8 @@
                     <string>DFC</string>
                     <string>LI</string>
                   </posiciones>
-                  <nivel>84</nivel>
-                  <potencial>89</potencial>
+                  <nivel>83</nivel>
+                  <potencial>83</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3924,8 +3924,8 @@
                     <string>LD</string>
                     <string>LI</string>
                   </posiciones>
-                  <nivel>75</nivel>
-                  <potencial>85</potencial>
+                  <nivel>82</nivel>
+                  <potencial>84</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3940,8 +3940,8 @@
                     <string>EI</string>
                     <string>ED</string>
                   </posiciones>
-                  <nivel>79</nivel>
-                  <potencial>79</potencial>
+                  <nivel>74</nivel>
+                  <potencial>74</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3955,8 +3955,8 @@
                     <string>ED</string>
                     <string>EI</string>
                   </posiciones>
-                  <nivel>84</nivel>
-                  <potencial>90</potencial>
+                  <nivel>86</nivel>
+                  <potencial>86</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -3969,8 +3969,8 @@
                   <posiciones>
                     <string>DFC</string>
                   </posiciones>
-                  <nivel>67</nivel>
-                  <potencial>82</potencial>
+                  <nivel>79</nivel>
+                  <potencial>83</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -5024,8 +5024,8 @@
                   <posiciones>
                     <string>DC</string>
                   </posiciones>
-                  <nivel>85</nivel>
-                  <potencial>85</potencial>
+                  <nivel>82</nivel>
+                  <potencial>82</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -11010,8 +11010,8 @@
                     <string>EI</string>
                     <string>MI</string>
                   </posiciones>
-                  <nivel>71</nivel>
-                  <potencial>72</potencial>
+                  <nivel>63</nivel>
+                  <potencial>63</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -19731,8 +19731,8 @@
                     <string>MC</string>
                     <string>MCD</string>
                   </posiciones>
-                  <nivel>74</nivel>
-                  <potencial>74</potencial>
+                  <nivel>72</nivel>
+                  <potencial>72</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -19747,8 +19747,8 @@
                     <string>CAR</string>
                     <string>MI</string>
                   </posiciones>
-                  <nivel>77</nivel>
-                  <potencial>77</potencial>
+                  <nivel>74</nivel>
+                  <potencial>74</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -19763,8 +19763,8 @@
                     <string>MD</string>
                     <string>MI</string>
                   </posiciones>
-                  <nivel>79</nivel>
-                  <potencial>79</potencial>
+                  <nivel>74</nivel>
+                  <potencial>74</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -19777,8 +19777,8 @@
                   <posiciones>
                     <string>DC</string>
                   </posiciones>
-                  <nivel>82</nivel>
-                  <potencial>82</potencial>
+                  <nivel>78</nivel>
+                  <potencial>78</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -19792,7 +19792,7 @@
                     <string>DFC</string>
                   </posiciones>
                   <nivel>88</nivel>
-                  <potencial>91</potencial>
+                  <potencial>88</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -19806,8 +19806,8 @@
                     <string>LD</string>
                     <string>LI</string>
                   </posiciones>
-                  <nivel>85</nivel>
-                  <potencial>89</potencial>
+                  <nivel>84</nivel>
+                  <potencial>86</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -19821,8 +19821,8 @@
                     <string>EI</string>
                     <string>MCO</string>
                   </posiciones>
-                  <nivel>83</nivel>
-                  <potencial>91</potencial>
+                  <nivel>80</nivel>
+                  <potencial>86</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -19836,8 +19836,8 @@
                   <posiciones>
                     <string>DC</string>
                   </posiciones>
-                  <nivel>76</nivel>
-                  <potencial>85</potencial>
+                  <nivel>72</nivel>
+                  <potencial>78</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -19850,8 +19850,8 @@
                   <posiciones>
                     <string>POR</string>
                   </posiciones>
-                  <nivel>78</nivel>
-                  <potencial>83</potencial>
+                  <nivel>73</nivel>
+                  <potencial>73</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -19866,7 +19866,7 @@
                     <string>LW</string>
                   </posiciones>
                   <nivel>74</nivel>
-                  <potencial>81</potencial>
+                  <potencial>79</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -19879,8 +19879,8 @@
                   <posiciones>
                     <string>POR</string>
                   </posiciones>
-                  <nivel>80</nivel>
-                  <potencial>83</potencial>
+                  <nivel>79</nivel>
+                  <potencial>80</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -19896,7 +19896,7 @@
                     <string>MCO</string>
                   </posiciones>
                   <nivel>82</nivel>
-                  <potencial>86</potencial>
+                  <potencial>82</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -19909,8 +19909,8 @@
                   <posiciones>
                     <string>DC</string>
                   </posiciones>
-                  <nivel>75</nivel>
-                  <potencial>81</potencial>
+                  <nivel>78</nivel>
+                  <potencial>79</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -19923,8 +19923,8 @@
                   <posiciones>
                     <string>CDM</string>
                   </posiciones>
-                  <nivel>76</nivel>
-                  <potencial>79</potencial>
+                  <nivel>74</nivel>
+                  <potencial>75</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -19939,8 +19939,8 @@
                     <string>MC</string>
                     <string>MCO</string>
                   </posiciones>
-                  <nivel>75</nivel>
-                  <potencial>80</potencial>
+                  <nivel>77</nivel>
+                  <potencial>79</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -19954,8 +19954,8 @@
                     <string>CDM</string>
                     <string>CM</string>
                   </posiciones>
-                  <nivel>75</nivel>
-                  <potencial>77</potencial>
+                  <nivel>79</nivel>
+                  <potencial>79</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -19970,8 +19970,8 @@
                     <string>EI</string>
                     <string>DC</string>
                   </posiciones>
-                  <nivel>76</nivel>
-                  <potencial>79</potencial>
+                  <nivel>73</nivel>
+                  <potencial>73</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -19985,8 +19985,8 @@
                   <posiciones>
                     <string>DFC</string>
                   </posiciones>
-                  <nivel>86</nivel>
-                  <potencial>87</potencial>
+                  <nivel>81</nivel>
+                  <potencial>81</potencial>
                   <lesion>0</lesion>
                   <habilitado>false</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -19999,8 +19999,8 @@
                   <posiciones>
                     <string>DFC</string>
                   </posiciones>
-                  <nivel>78</nivel>
-                  <potencial>82</potencial>
+                  <nivel>77</nivel>
+                  <potencial>78</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -20029,8 +20029,8 @@
                     <string>MC</string>
                     <string>MCD</string>
                   </posiciones>
-                  <nivel>81</nivel>
-                  <potencial>86</potencial>
+                  <nivel>75</nivel>
+                  <potencial>75</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -20043,8 +20043,8 @@
                   <posiciones>
                     <string>LD</string>
                   </posiciones>
-                  <nivel>72</nivel>
-                  <potencial>72</potencial>
+                  <nivel>71</nivel>
+                  <potencial>71</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -20057,8 +20057,8 @@
                   <posiciones>
                     <string>LD</string>
                   </posiciones>
-                  <nivel>87</nivel>
-                  <potencial>90</potencial>
+                  <nivel>86</nivel>
+                  <potencial>87</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>
@@ -20071,8 +20071,8 @@
                   <posiciones>
                     <string>DFC</string>
                   </posiciones>
-                  <nivel>71</nivel>
-                  <potencial>73</potencial>
+                  <nivel>74</nivel>
+                  <potencial>76</potencial>
                   <lesion>0</lesion>
                   <habilitado>true</habilitado>
                   <precioVenta>0.0</precioVenta>

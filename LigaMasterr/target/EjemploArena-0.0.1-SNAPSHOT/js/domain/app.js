@@ -1,11 +1,4 @@
 var app = angular.module('grondomasterApp', ['ui.router']);
-var databaseService = firebase.database();
-var referencia = databaseService.ref('appData');
-var ref = new Firebase("https://ejemplo.firebaseio.com/appData");
-ref.set({
-                        jugador: 'valor del test',
-                        goles: "6" , 
-                    });
 
 app.controller('buscarController', function(JugadorService) {
     var self = this;
@@ -40,26 +33,12 @@ app.controller('loginController', function(DTService, $state) {
             DTService.getUsuario(function (response) {
                 if(response.data != "null"){
                     DTService.toDT(response.data);
-                   
                     $state.go('main.inicio.plantel');
                 }else{
                     self.mensaje =  "El usuario y contraseña no coinciden.";
                 }
             });    
-    };
-    this.guardarSesion = function(){
-    
-    	DTService.guardar();
-
-        
-    	
-    };
-    this.cargarSesion = function(){
-    
-    	DTService.cargar();
-      
-    	
-    };    
+    };  
   
 
 

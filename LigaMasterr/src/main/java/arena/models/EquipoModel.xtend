@@ -143,7 +143,9 @@ class EquipoModel {
 	
 	def updatePlantel() {
 		try{
-			dtON.listaJugadores.forEach[update]
+			dtON.listaJugadores.forEach[
+				try{update}catch (Exception e){}
+			]
 			LigaMaster.instance.guardarBase
 			
 		}catch (Exception e)

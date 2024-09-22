@@ -64,11 +64,8 @@ Oferta.asOferta = function(jsonOferta) {
 
 };
 
-/*function Transferencia() {}
+function Transferencia() {}
 
 Transferencia.asTransferencia = function(jsonTransferencia) {
     return angular.extend(new Transferencia(), jsonTransferencia);
-
-
 };
-*/

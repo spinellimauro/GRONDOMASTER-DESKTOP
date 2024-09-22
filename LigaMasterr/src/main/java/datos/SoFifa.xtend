@@ -25,8 +25,9 @@ final class SoFifa {
 			jugador.id = Integer::parseInt(data.select("img").attr("id"))
 			jugador.nacionalidad = data.get(1).select("a > span ").attr("title")
 			jugador.posiciones = newArrayList(data.get(1).select("span").map[text])
-			jugador.nivel = Integer::parseInt(data.get(3).text)
-			jugador.potencial = Integer::parseInt(data.get(4).text)
+			jugador.nivel = Integer::parseInt(data.get(3).select("em").text)
+			
+			jugador.potencial = Integer::parseInt(data.get(4).select("em").text)
 
 			jugador
 		]

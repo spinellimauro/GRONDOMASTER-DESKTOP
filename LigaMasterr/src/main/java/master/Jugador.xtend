@@ -66,7 +66,7 @@ class Jugador {
 	def void update() {
 		val instance = Jsoup.connect("http://sofifa.com/player/" + id).userAgent("Mozilla").post
 		
-		val ratings = instance.select("section > div > div > span")
+		val ratings = instance.select("article > div > div > em")
 		
 		nivel = Integer::parseInt(ratings.get(0).text)
 		potencial = Integer.parseInt(ratings.get(1).text)

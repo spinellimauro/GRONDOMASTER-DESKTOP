@@ -17,7 +17,7 @@ public class RankWindow extends Dialog<RankModel> {
     super(parent, new RankModel(model));
     this.setTitle("GrondoRanking");
   }
-  
+
   @Override
   public void createMainTemplate(final Panel panel) {
     Table<DT> _table = new Table<DT>(panel, DT.class);
@@ -51,11 +51,11 @@ public class RankWindow extends Dialog<RankModel> {
     };
     ObjectExtensions.<Table<DT>>operator_doubleArrow(_table, _function);
   }
-  
+
   @Override
   protected void addActions(final Panel actionsPanel) {
   }
-  
+
   @Override
   protected void createFormPanel(final Panel mainPanel) {
   }
